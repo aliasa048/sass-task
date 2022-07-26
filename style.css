@@ -1,0 +1,20 @@
+.container {
+    padding: 1%;
+}
+.text-center{
+    text-align: center !important;
+}
+.darkarea{
+  background-color: rgb(53, 49, 49);
+  box-sizing: border-box;
+
+}
+.ms-auto {
+    margin-left: auto !important;
+}
+
+.textcenter h1{
+   font-weight: bolder !important;
+   color: white!important;
+   
+}
